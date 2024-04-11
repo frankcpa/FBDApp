@@ -27,13 +27,11 @@
         </div>
     </div>
     <div class="row">
-         <div class="col col-md-3"></div>
-        <div class="col col-md-6">
-        <?php
-                echo '<img src="/frameworkDApp/recursos/imagens/per02naoper03' . $_GET['figura'] . '.png" class="img-fluid" alt="...">';
-            ?>  
+    <div class="col col-md-2"></div>
+        <div class="col col-md-8">
+            <a href="https://www.infomoney.com.br/guias/tokens/" target="_blank">
+                <img src="/frameworkDApp/recursos/imagens/token.avif" class="img-fluid" alt="..."></a>
         </div>
-        <div class="col col-md-3"></div>
     </div>
     <div class="row">
         <div class="col col-md-12">
@@ -64,6 +62,7 @@
                     capacitar a digitalização de uma ampla gama de direitos existentes na sociedade Xu et al. (2019).</p>
             </div>
             <div class="modal-footer">
+                <a href="https://einvestidor.estadao.com.br/educacao-financeira/diferenca-entre-token-e-criptomoeda/?amp&gad_source=1&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5iyJPU-TkrEd1Kr2-ocGF_iqsvsYkLYcr00Jr31O6_QgWsOyLIBDwMaAjhvEALw_wcB" target="_blank" class="btn btn-secondary" role="button">Link externo para mais informações</a>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
             </div>
         </div>

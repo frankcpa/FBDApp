@@ -45,15 +45,6 @@
         </div>
     </div>
     <div class="row">
-         <div class="col col-md-2"></div>
-        <div class="col col-md-8">
-        <?php
-                echo '<img src="/frameworkDApp/recursos/imagens/per02naoper03' . $_GET['figura'] . 'per4' . $_GET['figura2'] . '.png" class="img-fluid" alt="...">';
-            ?>
-        </div>
-        <div class="col col-md-2"></div>
-    </div>
-    <div class="row">
         <div class="col col-md-12">
             <button onclick="location.href = '/frameworkDApp/visao/frame/permissionadanao/06per2simper3per4.php?figura=<?php echo $_GET['figura'] ?>&figura2=<?php echo $_GET['figura2'] ?>';" type="button" class="btn btn-primary">Voltar</button>
         </div>

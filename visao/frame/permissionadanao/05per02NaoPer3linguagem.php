@@ -27,11 +27,12 @@
         </div>
     </div>
     <div class="row">
-         <div class="col col-md-3"></div>
-        <div class="col col-md-6">
-        <img src="/frameworkDApp/recursos/imagens/per02naoper03.png" class="img-fluid" alt="...">
+    <div class="col col-md-2"></div>
+        <div class="col col-md-8">
+        <a href="https://br.cointelegraph.com/explained/programming-languages-used-in-blockchain-explained" target="_blank">
+            <img src="/frameworkDApp/recursos/imagens/linguagens.PNG" class="img-fluid" alt="..."></a>
         </div>
-        <div class="col col-md-3"></div>
+        <div class="col col-md-2"></div>
     </div>
     <div class="row">
         <div class="col col-md-12">
@@ -58,6 +59,7 @@
                 <p class="lead">Exemplo: Java, Python, PHP, C, C++, C# e outros.</p>
             </div>
             <div class="modal-footer">
+                <a href="https://blog.northern.com.br/linguagens-de-programacao/" target="_blank" class="btn btn-secondary" role="button">Link externo para mais informações</a>
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
             </div>
         </div>
